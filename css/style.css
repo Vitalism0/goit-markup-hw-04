@@ -427,7 +427,9 @@ FOOTER
   align-items: baseline;
   gap: 120px;
 }
-
+.footer-logo-box {
+  margin-right: 120px;
+}
 .footer-logo {
   display: inline-block;
   font-family: "Raleway", sans-serif;
@@ -448,7 +450,7 @@ FOOTER
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #ffffff;
+  color: #f4f4fd;
 }
 
 .footer-socials-box {
