@@ -176,6 +176,7 @@ HERO-SECTION
   color: #fff;
   text-align: center;
   max-width: 1440px;
+  margin: 0 auto;
 }
 .hero-section-title {
   margin-bottom: 48px;
@@ -307,7 +308,7 @@ TEAM-SECTION
 }
 .socials-link:hover,
 .socials-link:active {
-  background-color: #31d0aa;
+  background-color: #404bbf;
 }
 .team-subtitle {
   margin-bottom: 8px;
